@@ -1,5 +1,10 @@
 package myTextEditor;
 
+/**
+ * Die Main Klasse
+ * @author Toni
+ *
+ */
 public class Main {
 
 	public static void main(String[] args) {
